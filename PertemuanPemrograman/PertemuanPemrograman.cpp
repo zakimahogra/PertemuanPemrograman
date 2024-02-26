@@ -14,7 +14,8 @@ int main()
         // display 'Luasnya' + nLuas
     //end
     double nJejari, nLuas;
-    
+    cout << "Masukin Jejari = ";
+
 
     system("pause");
 }
